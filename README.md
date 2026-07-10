@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ezequiel Ranieri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Ezequiel Ranieri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+%26+Security+Engineer;Distributed+Systems+%26+Authentication;Hexagonal+Architecture+Enjoyer;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
@@ -16,15 +16,21 @@
 <tr>
 <td valign="top" width="58%">
 
-### 🧠 Sobre mí
+### 🧠 About me
 
-Ingeniero backend autodidacta enfocado en **arquitectura limpia/hexagonal**, **sistemas distribuidos** y **seguridad de autenticación (IAM)**. Construyo software pensado para escalar, resistir fallos y sobrevivir en producción — no demos de fin de semana.
+I design and build secure, scalable, production-grade backend systems. I combine strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision.
 
-- 🔭 Actualmente profundizando en **Go** para sistemas de alto rendimiento
-- 🔐 Especialidad: autenticación, autorización, detección de breaches, rate limiting
-- 🏗️ Arquitectura: Hexagonal / Clean Architecture, DDD, event-driven
-- 📈 Producción real: **DentalCloud**, SaaS con cliente activo
-- 📝 Documentación de nivel senior: diagramas, retrospectivas y roadmaps
+My primary areas of focus:
+- 🔐 Authentication & Identity Management (IAM)
+- 🌐 Distributed Systems & Resilient Architectures
+- 🛡️ Security Engineering
+- ⚙️ Scalable Backend Systems
+
+I specialize in making deliberate architectural decisions that result in maintainable, secure, and truly reliable software in real production environments. My current toolkit includes Python, FastAPI, PostgreSQL, Redis, RabbitMQ, Docker, and cloud-native backend technologies.
+
+- 🔭 Currently diving deeper into **Go** for high-performance systems
+
+Passionate about solving complex technical problems, evaluating architectural trade-offs, and building systems that perform reliably under real-world production conditions.
 
 </td>
 <td valign="top" width="42%">
@@ -57,37 +63,37 @@ Ingeniero backend autodidacta enfocado en **arquitectura limpia/hexagonal**, **s
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured projects
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **[flowcore](https://github.com/ezequielranieri/flowcore)** | Motor de workflows distribuido, durable y observable | Python |
-| **[dentalcloud](https://github.com/ezequielranieri/dentalcloud)** | SaaS-lite para gestión integral de clínicas odontológicas — pacientes, turnos e historia clínica digital. En producción | TypeScript |
-| **[hex-auth-service](https://github.com/ezequielranieri/hex-auth-service)** | IAM hexagonal de alto rendimiento: validación de tokens O(1), breach detection en tiempo real, refresh rotation | Python · FastAPI · Redis · PostgreSQL |
-| **[go-iam-service](https://github.com/ezequielranieri/go-iam-service)** | Reimplementación del IAM en Go, performance-first, Clean Architecture | Go |
-| **[high-performance-task-queue](https://github.com/ezequielranieri/high-performance-task-queue)** | Microservicio de pagos asíncrono con idempotencia estricta y patrones de resiliencia | Python · FastAPI · Celery · RabbitMQ · Redis |
-| **[async-etl-framework](https://github.com/ezequielranieri/async-etl-framework)** | Pipeline ETL asíncrono y no bloqueante, altamente escalable | Python · Polars · HTTPX · Docker |
-| **[secure-auth-api](https://github.com/ezequielranieri/secure-auth-api)** | API de autenticación segura | Python · FastAPI |
+| **[flowcore](https://github.com/ezequielranieri/flowcore)** | Distributed, durable, and observable workflow engine | Python |
+| **[dentalcloud](https://github.com/ezequielranieri/dentalcloud)** | SaaS-lite platform for comprehensive dental clinic management — patients, appointments, and clinical records. In production | TypeScript |
+| **[hex-auth-service](https://github.com/ezequielranieri/hex-auth-service)** | High-performance hexagonal IAM: O(1) token validation, real-time breach detection, refresh rotation | Python · FastAPI · Redis · PostgreSQL |
+| **[go-iam-service](https://github.com/ezequielranieri/go-iam-service)** | Go reimplementation of the IAM service, performance-first, Clean Architecture | Go |
+| **[high-performance-task-queue](https://github.com/ezequielranieri/high-performance-task-queue)** | Resilient asynchronous microservice for payments and critical operations with strong idempotency and fault tolerance | Python · FastAPI · Celery · RabbitMQ · Redis |
+| **[async-etl-framework](https://github.com/ezequielranieri/async-etl-framework)** | Modern, scalable asynchronous ETL framework | Python · Polars · HTTPX · Docker |
+| **[secure-auth-api](https://github.com/ezequielranieri/secure-auth-api)** | Secure authentication REST API | Python · FastAPI |
 
 ---
 
-### 🛡️ Seguridad ofensiva/defensiva
+### 🛡️ Offensive/defensive security
 `threat-intel-dashboard` · `recon-tool` · `discord-guard`
 
 ---
 
-### 🧰 Stack técnico
+### 🧰 Tech stack
 
-**Lenguajes:** Python · TypeScript · Go
+**Languages:** Python · TypeScript · Go
 **Backend:** FastAPI · Celery · SQLAlchemy 2.0 · Alembic
-**Infra/Distribuidos:** Docker · PostgreSQL · Redis · RabbitMQ
+**Infra/Distributed:** Docker · PostgreSQL · Redis · RabbitMQ
 **Observability:** OpenTelemetry · Prometheus · Structured Logging
 **Frontend:** Next.js 16 · Tailwind · Supabase
-**Seguridad/Arquitectura:** JWT avanzado · IAM · Rate Limiting · Hexagonal/Clean Architecture
+**Security/Architecture:** Advanced JWT · IAM · Rate Limiting · Hexagonal/Clean Architecture
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -103,14 +109,14 @@ Ingeniero backend autodidacta enfocado en **arquitectura limpia/hexagonal**, **s
 
 ---
 
-### 🐍 Contribuciones (animado)
+### 🐍 Contributions (animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> Esta animación se genera sola con GitHub Actions — el archivo de configuración va abajo.
+> This animation is generated automatically via GitHub Actions — the workflow config is below.
 
 ---
 
-<p align="center"><i>Construyendo sistemas que aguantan producción, no demos de portfolio.</i></p>
+<p align="center"><i>Building systems that hold up in production, not portfolio demos.</i></p>

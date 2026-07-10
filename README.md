@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%26%20Security%20Engineer&descAlignY=60&descSize=18&descColor=cccccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20and%20Security%20Engineer&descAlignY=60&descSize=18&descColor=cccccc" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=555555&center=true&vCenter=true&width=560&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://ezequielranieri.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
 
 </div>
 

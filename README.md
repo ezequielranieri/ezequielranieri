@@ -1,8 +1,10 @@
 <div align="center">
 
-# Ezequiel Ranieri
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%26%20Security%20Engineer&descAlignY=60&descSize=18&descColor=cccccc" />
 
-**Backend & Security Engineer** — Distributed Systems · Authentication (IAM)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=555555&center=true&vCenter=true&width=560&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
+
+<br><br>
 
 [![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://ezequielranieri.github.io)
@@ -63,14 +65,9 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 
 ## Tech stack
 
-| | |
-|---|---|
-| **Languages** | Python · Go · TypeScript |
-| **Backend** | FastAPI · Celery · SQLAlchemy 2.0 · Alembic |
-| **Infrastructure** | Docker · PostgreSQL · Redis · RabbitMQ |
-| **Observability** | OpenTelemetry · Prometheus · Structured Logging |
-| **Frontend** | Next.js · Tailwind · Supabase |
-| **Security** | Advanced JWT · IAM · Rate Limiting · Hexagonal/Clean Architecture |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,docker,postgres,redis,rabbitmq,nextjs,git" />
+</p>
 
 <br>
 
@@ -87,8 +84,8 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=80&section=footer" />
+
 <div align="center">
-
 Salto Grande, Santa Fe, Argentina
-
 </div>

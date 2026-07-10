@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=40&fontFamily=Inter&animation=fadeIn&desc=Backend%20and%20Security%20Engineer&descAlignY=60&descSize=18&descColor=8899aa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=Inter&animation=fadeIn&desc=Backend%20%26%20Security%20Engineer&descAlignY=60&descSize=17&descColor=94a3b8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=2D7D9A&center=true&vCenter=true&width=560&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1500&color=6366F1&center=true&vCenter=true&width=580&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
 
 <br><br>
 
@@ -84,7 +84,7 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielranieri&custom_title=Contribution%20Graph&bg_color=ffffff&color=2d7d9a&line=1a1a2e&point=2d7d9a&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielranieri&custom_title=Contribution%20Graph&bg_color=ffffff&color=6366f1&line=6366f1&point=818cf8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=80&section=footer" />
 
 <div align="center">
 Salto Grande, Santa Fe, Argentina

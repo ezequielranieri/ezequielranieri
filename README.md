@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=Inter&animation=fadeIn&desc=Backend%20%E2%80%A2%20Security%20Engineer&descAlignY=60&descSize=17&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=Inter&animation=twinkling&desc=Backend%20%E2%80%A2%20Security%20Engineer&descAlignY=60&descSize=17&descColor=94a3b8" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=580&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
 
@@ -93,7 +93,7 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=80&section=footer" />
 
 <div align="center">
 Salto Grande, Santa Fe, Argentina

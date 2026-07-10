@@ -1,43 +1,94 @@
-<h1 align="center">Hi, I'm Ezequiel Ranieri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+<div align="center">
+
+# Ezequiel Ranieri
+
+**Backend & Security Engineer** — Distributed Systems · Authentication (IAM)
+
+[![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://ezequielranieri.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+<br>
+
+I design and build secure, scalable, production-grade backend systems. I combine strong architectural thinking with modern engineering workflows to deliver reliable software with speed and precision.
+
+**Primary focus areas**
+- Authentication & Identity Management (IAM)
+- Distributed Systems & Resilient Architectures
+- Security Engineering
+- Scalable Backend Systems
+
+I specialize in making deliberate architectural decisions that result in maintainable, secure, and truly reliable software in real production environments — currently deepening my expertise in **Go** for high-performance systems.
+
+<br>
+
+## Featured work
+
+**[hex-auth-service](https://github.com/ezequielranieri/hex-auth-service)**
+High-performance IAM built on hexagonal architecture — O(1) token validation, refresh token rotation, rate limiting, real-time breach detection.
+`Python` `FastAPI` `Redis` `PostgreSQL`
+
+**[go-iam-service](https://github.com/ezequielranieri/go-iam-service)**
+Go reimplementation of the IAM service, performance-first, Clean Architecture.
+`Go` `Prometheus`
+
+**[flowcore](https://github.com/ezequielranieri/flowcore)**
+Distributed, durable, and observable workflow engine — Sagas, versioning, multi-tenancy.
+`Python` `Celery` `RabbitMQ`
+
+**[high-performance-task-queue](https://github.com/ezequielranieri/high-performance-task-queue)**
+Resilient asynchronous microservice for payments and critical operations, built with strict idempotency and fault tolerance.
+`Python` `FastAPI` `Celery` `RabbitMQ` `Redis`
+
+**[async-etl-framework](https://github.com/ezequielranieri/async-etl-framework)**
+Modern, scalable asynchronous ETL framework.
+`Python` `Polars` `HTTPX` `Docker`
+
+**[dentalcloud](https://github.com/ezequielranieri/dentalcloud)**
+Complete SaaS platform for dental clinics — patients, appointments, and clinical records. Delivered to a real client, in production.
+`TypeScript` `Next.js` `Supabase`
+
+<br>
+
+## Engineering principles
+
+- Architecture is a deliberate decision, not a default — hexagonal/clean boundaries between domain logic and infrastructure
+- Security is a design constraint from day one, not a layer added at the end
+- Systems are built to fail safely: idempotency, retries, dead-letter queues, observability
+- Documentation and honest retrospectives are part of the deliverable, not an afterthought
+
+<br>
+
+## Tech stack
+
+| | |
+|---|---|
+| **Languages** | Python · Go · TypeScript |
+| **Backend** | FastAPI · Celery · SQLAlchemy 2.0 · Alembic |
+| **Infrastructure** | Docker · PostgreSQL · Redis · RabbitMQ |
+| **Observability** | OpenTelemetry · Prometheus · Structured Logging |
+| **Frontend** | Next.js · Tailwind · Supabase |
+| **Security** | Advanced JWT · IAM · Rate Limiting · Hexagonal/Clean Architecture |
+
+<br>
+
+## GitHub activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+%26+Security+Engineer;Distributed+Systems+%26+Authentication;Hexagonal+Architecture+Enjoyer;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=333333" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielranieri&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555" />
 </p>
 
 <p align="center">
-  📍 Salto Grande, Santa Fe, Argentina &nbsp;•&nbsp;
-  ✉️ <a href="mailto:ez.ranieri@gmail.com">ez.ranieri@gmail.com</a> &nbsp;•&nbsp;
-  🌐 <a href="https://ezequielranieri.github.io">ezequielranieri.github.io</a>
+  <img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="90%" />
 </p>
 
----
+<br>
 
-### 🧠 About me
+<div align="center">
 
-Self-taught Backend & Security Engineer focused on building **secure, scalable and production-grade systems**.
+Salto Grande, Santa Fe, Argentina
 
-I combine strong architectural thinking (Hexagonal / Clean Architecture) with modern tools to deliver reliable solutions that perform under real load.
-
-**Main focus areas:**
-- 🔐 Identity & Access Management (IAM)
-- 🌐 Distributed Systems & Resilient Architectures  
-- 🛡️ Security Engineering
-- ⚙️ High-performance Backend Services
-
-Currently deepening my expertise in **Go** for performance-critical systems.
-
-> Passionate about solving complex problems and building software that holds up in production — not just portfolio demos.
-
----
-
-### 🚀 Featured projects
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **[flowcore](https://github.com/ezequielranieri/flowcore)** | Distributed durable workflow engine with Sagas, versioning and multi-tenancy | Python, Celery, PostgreSQL | Active |
-| **[dentalcloud](https://github.com/ezequielranieri/dentalcloud)** | SaaS for dental clinics with interactive odontogram | Next.js 16, Supabase, TypeScript | **In Production** |
-| **[hex-auth-service](https://github.com/ezequielranieri/hex-auth-service)** | High-performance hexagonal IAM (O(1) validation + breach detection) | Python, FastAPI | Advanced |
-| **[go-iam-service](https://github.com/ezequielranieri/go-iam-service)** | Performance-first IAM reimplementation | Go, Clean Architecture | Active |
-| **[high-performance-task-queue](https://github.com/ezequielranieri/high-performance-task-queue)** | Resilient payment microservice with strict idempotency | Python, Celery, RabbitMQ | Completed |
-
-*(y el resto abajo más compacto)*
+</div>

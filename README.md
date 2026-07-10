@@ -87,11 +87,6 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 ## GitHub activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=1e293b&icon_color=6366f1" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielranieri&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=1e293b" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielranieri&custom_title=Contribution%20Graph&bg_color=ffffff&color=6366f1&line=6366f1&point=818cf8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 

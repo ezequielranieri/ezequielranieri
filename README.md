@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20and%20Security%20Engineer&descAlignY=60&descSize=18&descColor=cccccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=140&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=40&fontFamily=Helvetica&animation=fadeIn&desc=Backend%20and%20Security%20Engineer&descAlignY=60&descSize=18&descColor=cccccc" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=555555&center=true&vCenter=true&width=560&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=555555&center=true&vCenter=true&width=560&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
 
 <br><br>
 
@@ -72,11 +72,6 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 <br>
 
 ## GitHub activity
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=333333" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielranieri&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="90%" />

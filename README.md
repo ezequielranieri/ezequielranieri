@@ -16,11 +16,14 @@
 
 I design and build secure, scalable, production-grade backend systems. I combine strong architectural thinking with modern engineering workflows to deliver reliable software with speed and precision.
 
-**Primary focus areas**
-- 🔐 Authentication & Identity Management (IAM)
-- 🌐 Distributed Systems & Resilient Architectures
-- 🛡️ Security Engineering
-- ⚙️ Scalable Backend Systems
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Authentication_%26_IAM-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Distributed_Systems-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Security_Engineering-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Scalable_Backends-6366f1?style=flat-square" />
+</p>
 
 I specialize in making deliberate architectural decisions that result in maintainable, secure, and truly reliable software in real production environments — currently deepening my expertise in **Go** for high-performance systems.
 
@@ -84,6 +87,11 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 ## GitHub activity
 
 <p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=1e293b&icon_color=6366f1" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielranieri&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=1e293b" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielranieri&custom_title=Contribution%20Graph&bg_color=ffffff&color=6366f1&line=6366f1&point=818cf8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
@@ -96,5 +104,5 @@ Complete SaaS platform for dental clinics — patients, appointments, and clinic
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=80&section=footer" />
 
 <div align="center">
-Salto Grande, Santa Fe, Argentina
+  <img src="https://img.shields.io/badge/-Salto_Grande,_Santa_Fe,_Argentina-1e293b?style=flat-square&logo=googlechrome&logoColor=white" />
 </div>

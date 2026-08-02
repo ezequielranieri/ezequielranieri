@@ -2,7 +2,9 @@
 
 # EZEQUIEL RANIERI
 
-**Backend & Security Engineer | AI-Fluent | Building secure distributed systems with speed**
+**Backend Engineer | AI-Fluent**
+
+Secure systems • IAM • Distributed Architecture
 
 <br>
 
@@ -14,7 +16,7 @@
 
 ---
 
-I design and build secure, scalable, production-grade backend systems — combining strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision. My focus: Identity & Access Management, distributed systems, and security engineering — currently deepening my expertise in **Go** for high-performance services.
+I build secure, scalable, production-grade backend systems — combining strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision. My focus: Identity & Access Management, distributed systems, and security engineering — currently deepening my expertise in **Go** for high-performance services.
 
 <br>
 
@@ -22,15 +24,15 @@ I design and build secure, scalable, production-grade backend systems — combin
 
 | Project | Description | Stack |
 |---|---|---|
-| [**hex-auth-service**](https://github.com/ezequielranieri/hex-auth-service) | High-performance hexagonal IAM — O(1) token validation, refresh rotation, breach detection | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white) |
-| [**go-iam-service**](https://github.com/ezequielranieri/go-iam-service) | Performance-first authentication & identity service in Go | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) |
-| [**flowcore**](https://github.com/ezequielranieri/flowcore) | Distributed, durable, and observable workflow engine | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-21262d?style=flat-square&logo=rabbitmq&logoColor=white) |
+| [**flowcore**](https://github.com/ezequielranieri/flowcore) | Distributed, durable, and observable workflow engine | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-21262d?style=flat-square&logo=rabbitmq&logoColor=white) ![Build](https://img.shields.io/github/actions/workflow/status/ezequielranieri/flowcore/ci.yml?style=flat-square&label=Build&labelColor=21262d&color=8b949e) |
 | [**go-durable-jobs**](https://github.com/ezequielranieri/go-durable-jobs) | Durable job processor in Go — Postgres queue, idempotency, retries with backoff | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) |
+| [**hex-auth-service**](https://github.com/ezequielranieri/hex-auth-service) | High-performance hexagonal IAM — O(1) token validation, refresh rotation, breach detection | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white) |
+| [**go-iam-service**](https://github.com/ezequielranieri/go-iam-service) | Performance-first authentication & identity service in Go | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![Build](https://img.shields.io/github/actions/workflow/status/ezequielranieri/go-iam-service/ci.yml?style=flat-square&label=Build&labelColor=21262d&color=8b949e) |
 | [**secure-auth-api**](https://github.com/ezequielranieri/secure-auth-api) | Secure authentication REST API built with Python & FastAPI | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) |
 
 <div align="center">
 
-[View all projects →](https://github.com/ezequielranieri?tab=repositories)
+[**Explore all repositories →**](https://github.com/ezequielranieri?tab=repositories)
 
 </div>
 
@@ -71,6 +73,6 @@ I design and build secure, scalable, production-grade backend systems — combin
 
 **Let's build together.** &nbsp;→&nbsp; [ez.ranieri@gmail.com](mailto:ez.ranieri@gmail.com)
 
-📍 Salto Grande, Santa Fe, Argentina
+Salto Grande, Santa Fe, Argentina
 
 </div>

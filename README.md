@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=EZEQUIEL%20RANIERI&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20%26%20Security%20Engineer%20%E2%80%A2%20AI-Fluent&descAlignY=58&descColor=CCCCCC)
+# EZEQUIEL RANIERI
 
 **Backend & Security Engineer | AI-Fluent | Building secure distributed systems with speed**
 
@@ -23,11 +23,11 @@ I design and build secure, scalable, production-grade backend systems — combin
 
 | Project | Description | Stack |
 |---|---|---|
-| [**hex-auth-service**](https://github.com/ezequielranieri/hex-auth-service) | High-performance hexagonal IAM — O(1) token validation, refresh rotation, breach detection | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white) ![Stars](https://img.shields.io/github/stars/ezequielranieri/hex-auth-service?style=flat-square&label=Stars&labelColor=21262d&color=8b949e) |
-| [**go-iam-service**](https://github.com/ezequielranieri/go-iam-service) | Performance-first authentication & identity service in Go | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![Stars](https://img.shields.io/github/stars/ezequielranieri/go-iam-service?style=flat-square&label=Stars&labelColor=21262d&color=8b949e) |
-| [**flowcore**](https://github.com/ezequielranieri/flowcore) | Distributed, durable, and observable workflow engine | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-21262d?style=flat-square&logo=rabbitmq&logoColor=white) ![Stars](https://img.shields.io/github/stars/ezequielranieri/flowcore?style=flat-square&label=Stars&labelColor=21262d&color=8b949e) |
-| [**go-durable-jobs**](https://github.com/ezequielranieri/go-durable-jobs) | Durable job processor in Go — Postgres queue, idempotency, retries with backoff | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) ![Stars](https://img.shields.io/github/stars/ezequielranieri/go-durable-jobs?style=flat-square&label=Stars&labelColor=21262d&color=8b949e) |
-| [**secure-auth-api**](https://github.com/ezequielranieri/secure-auth-api) | Secure authentication REST API built with Python & FastAPI | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![Stars](https://img.shields.io/github/stars/ezequielranieri/secure-auth-api?style=flat-square&label=Stars&labelColor=21262d&color=8b949e) |
+| [**hex-auth-service**](https://github.com/ezequielranieri/hex-auth-service) | High-performance hexagonal IAM — O(1) token validation, refresh rotation, breach detection | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white) |
+| [**go-iam-service**](https://github.com/ezequielranieri/go-iam-service) | Performance-first authentication & identity service in Go | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) |
+| [**flowcore**](https://github.com/ezequielranieri/flowcore) | Distributed, durable, and observable workflow engine | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-21262d?style=flat-square&logo=rabbitmq&logoColor=white) |
+| [**go-durable-jobs**](https://github.com/ezequielranieri/go-durable-jobs) | Durable job processor in Go — Postgres queue, idempotency, retries with backoff | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) |
+| [**secure-auth-api**](https://github.com/ezequielranieri/secure-auth-api) | Secure authentication REST API built with Python & FastAPI | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) |
 
 <div align="center">
 
@@ -75,5 +75,3 @@ I design and build secure, scalable, production-grade backend systems — combin
 📍 Salto Grande, Santa Fe, Argentina
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=80&section=footer)

@@ -22,35 +22,71 @@ I design and build secure, scalable, production-grade backend systems — combin
 
 <div align="center">
 
-<a href="https://github.com/ezequielranieri/hex-auth-service" style="display:inline-block;width:46%;text-decoration:none;color:#fff;border:1px solid #333;border-radius:10px;padding:14px 16px;margin:6px;background:#0a0a0a;">
-<b>hex-auth-service</b>
-<br><span style="color:#999;font-size:13px;">High-performance hexagonal IAM — O(1) token validation, breach detection, refresh rotation</span>
-<br><br><img src="https://img.shields.io/badge/-Python-111?style=flat-square"><img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square"><img src="https://img.shields.io/badge/-Redis-111?style=flat-square">
-</a>
-
-<a href="https://github.com/ezequielranieri/go-iam-service" style="display:inline-block;width:46%;text-decoration:none;color:#fff;border:1px solid #333;border-radius:10px;padding:14px 16px;margin:6px;background:#0a0a0a;">
-<b>go-iam-service</b>
-<br><span style="color:#999;font-size:13px;">Performance-first authentication & identity service in Go</span>
-<br><br><img src="https://img.shields.io/badge/-Go-111?style=flat-square">
-</a>
-
-<a href="https://github.com/ezequielranieri/flowcore" style="display:inline-block;width:46%;text-decoration:none;color:#fff;border:1px solid #333;border-radius:10px;padding:14px 16px;margin:6px;background:#0a0a0a;">
-<b>flowcore</b>
-<br><span style="color:#999;font-size:13px;">Distributed, durable, and observable workflow engine</span>
-<br><br><img src="https://img.shields.io/badge/-Python-111?style=flat-square"><img src="https://img.shields.io/badge/-RabbitMQ-111?style=flat-square">
-</a>
-
-<a href="https://github.com/ezequielranieri/go-durable-jobs" style="display:inline-block;width:46%;text-decoration:none;color:#fff;border:1px solid #333;border-radius:10px;padding:14px 16px;margin:6px;background:#0a0a0a;">
-<b>go-durable-jobs</b>
-<br><span style="color:#999;font-size:13px;">Durable job processor in Go — Postgres queue, idempotency, retries with backoff</span>
-<br><br><img src="https://img.shields.io/badge/-Go-111?style=flat-square"><img src="https://img.shields.io/badge/-Postgres-111?style=flat-square">
-</a>
-
-<a href="https://github.com/ezequielranieri/secure-auth-api" style="display:inline-block;width:46%;text-decoration:none;color:#fff;border:1px solid #333;border-radius:10px;padding:14px 16px;margin:6px;background:#0a0a0a;">
-<b>secure-auth-api</b>
-<br><span style="color:#999;font-size:13px;">Secure authentication REST API built with Python & FastAPI</span>
-<br><br><img src="https://img.shields.io/badge/-Python-111?style=flat-square"><img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square">
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 16px 18px;">
+      <a href="https://github.com/ezequielranieri/hex-auth-service" style="text-decoration: none;">
+        <b style="color:#e6edf3; font-size:15px;">hex-auth-service</b>
+        <br>
+        <span style="color:#8b949e; font-size:13px;">High-performance hexagonal IAM — O(1) token validation, breach detection, refresh rotation</span>
+        <br><br>
+        <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 16px 18px;">
+      <a href="https://github.com/ezequielranieri/go-iam-service" style="text-decoration: none;">
+        <b style="color:#e6edf3; font-size:15px;">go-iam-service</b>
+        <br>
+        <span style="color:#8b949e; font-size:13px;">Performance-first authentication & identity service in Go</span>
+        <br><br>
+        <img src="https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 16px 18px;">
+      <a href="https://github.com/ezequielranieri/flowcore" style="text-decoration: none;">
+        <b style="color:#e6edf3; font-size:15px;">flowcore</b>
+        <br>
+        <span style="color:#8b949e; font-size:13px;">Distributed, durable, and observable workflow engine</span>
+        <br><br>
+        <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-21262d?style=flat-square&logo=rabbitmq&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 16px 18px;">
+      <a href="https://github.com/ezequielranieri/go-durable-jobs" style="text-decoration: none;">
+        <b style="color:#e6edf3; font-size:15px;">go-durable-jobs</b>
+        <br>
+        <span style="color:#8b949e; font-size:13px;">Durable job processor in Go — Postgres queue, idempotency, retries with backoff</span>
+        <br><br>
+        <img src="https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 16px 18px;">
+      <a href="https://github.com/ezequielranieri/secure-auth-api" style="text-decoration: none;">
+        <b style="color:#e6edf3; font-size:15px;">secure-auth-api</b>
+        <br>
+        <span style="color:#8b949e; font-size:13px;">Secure authentication REST API built with Python & FastAPI</span>
+        <br><br>
+        <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117; padding: 16px 18px;">
+      <a href="https://github.com/ezequielranieri" style="text-decoration: none;">
+        <b style="color:#8b949e; font-size:15px;">View all projects →</b>
+        <br>
+        <span style="color:#484f58; font-size:13px;">Explore more work across my GitHub profile</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 

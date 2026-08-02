@@ -14,7 +14,7 @@
 
 ---
 
-I design and build secure, scalable, production-grade backend systems — combining deliberate architectural decisions with modern engineering workflows. My focus is authentication & IAM, distributed systems, and security engineering, currently deepening my expertise in **Go** for high-performance services.
+I design and build secure, scalable, production-grade backend systems — combining strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision. My focus: Identity & Access Management, distributed systems, and security engineering — currently deepening my expertise in **Go** for high-performance services.
 
 <br>
 

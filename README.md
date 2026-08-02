@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ezequielranieri.vercel.app/en/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
-[![GitHub](https://img.shields.io/badge/-ezequielranieri-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/ezequielranieri)
 
 </div>
 

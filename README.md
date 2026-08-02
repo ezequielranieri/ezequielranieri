@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Ezequiel%20Ranieri&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=Inter&animation=twinkling&desc=Backend%20%E2%80%A2%20Security%20Engineer&descAlignY=60&descSize=17&descColor=94a3b8" />
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=EZEQUIEL%20RANIERI&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20%E2%80%A2%20Security%20Engineer&descAlignY=58&descColor=CCCCCC)
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=580&lines=Distributed+Systems+%26+Authentication+(IAM);Hexagonal+%2F+Clean+Architecture;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="Typing SVG" />
+<br>
+
+![Static Badge](https://img.shields.io/badge/HEXAGONAL%20%2F%20CLEAN%20ARCHITECTURE-000000?style=for-the-badge&labelColor=000000&color=000000&border=1)
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1e293b?style=flat-square&logo=googlechrome&logoColor=white)](https://ezequielranieri.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
+[![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:ez.ranieri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://ezequielranieri.vercel.app/en/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com)
 
 </div>
 
@@ -16,88 +18,91 @@
 
 I design and build secure, scalable, production-grade backend systems. I combine strong architectural thinking with modern engineering workflows to deliver reliable software with speed and precision.
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Authentication_%26_IAM-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Distributed_Systems-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Security_Engineering-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Scalable_Backends-6366f1?style=flat-square" />
-</p>
+`AUTHENTICATION & IAM` &nbsp;·&nbsp; `DISTRIBUTED SYSTEMS` &nbsp;·&nbsp; `SECURITY ENGINEERING` &nbsp;·&nbsp; `SCALABLE BACKENDS`
+
+</div>
+
+<br>
 
 I specialize in making deliberate architectural decisions that result in maintainable, secure, and truly reliable software in real production environments — currently deepening my expertise in **Go** for high-performance systems.
 
 <br>
 
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,docker,postgres,redis,rabbitmq,nextjs,git" />
-</p>
-
-<br>
-
-## Featured work
-
-**[hex-auth-service](https://github.com/ezequielranieri/hex-auth-service)**
-High-performance IAM built on hexagonal architecture — O(1) token validation, refresh token rotation, rate limiting, real-time breach detection.
-`Python` `FastAPI` `Redis` `PostgreSQL`
-
 ---
 
-**[go-iam-service](https://github.com/ezequielranieri/go-iam-service)**
-Go reimplementation of the IAM service, performance-first, Clean Architecture.
-`Go` `Prometheus`
-
----
-
-**[flowcore](https://github.com/ezequielranieri/flowcore)**
-Distributed, durable, and observable workflow engine — Sagas, versioning, multi-tenancy.
-`Python` `Celery` `RabbitMQ`
-
----
-
-**[high-performance-task-queue](https://github.com/ezequielranieri/high-performance-task-queue)**
-Resilient asynchronous microservice for payments and critical operations, built with strict idempotency and fault tolerance.
-`Python` `FastAPI` `Celery` `RabbitMQ` `Redis`
-
----
-
-**[async-etl-framework](https://github.com/ezequielranieri/async-etl-framework)**
-Modern, scalable asynchronous ETL framework.
-`Python` `Polars` `HTTPX` `Docker`
-
----
-
-**[dentalcloud](https://github.com/ezequielranieri/dentalcloud)**
-Complete SaaS platform for dental clinics — patients, appointments, and clinical records. Delivered to a real client, in production.
-`TypeScript` `Next.js` `Supabase`
-
-<br>
-
-## Engineering principles
-
-- 🏗️ **Architecture is a deliberate decision** — hexagonal/clean boundaries between domain logic and infrastructure
-- 🔒 **Security is a design constraint** from day one, not a layer added at the end
-- 💥 **Systems are built to fail safely** — idempotency, retries, dead-letter queues, observability
-- 📝 **Documentation and honest retrospectives** are part of the deliverable, not an afterthought
-
-<br>
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielranieri&custom_title=Contribution%20Graph&bg_color=ffffff&color=6366f1&line=6366f1&point=818cf8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="90%" />
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=80&section=footer" />
+### Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Salto_Grande,_Santa_Fe,_Argentina-1e293b?style=flat-square&logo=googlechrome&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,docker,postgres,redis,rabbitmq,nextjs,git&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+### Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/ezequielranieri/secure-auth-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ezequielranieri&repo=secure-auth-api&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&icon_color=FFFFFF" />
+</a>
+<a href="https://github.com/ezequielranieri/hex-auth-service">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ezequielranieri&repo=hex-auth-service&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&icon_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ezequielranieri/flowcore">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ezequielranieri&repo=flowcore&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&icon_color=FFFFFF" />
+</a>
+<a href="https://github.com/ezequielranieri/go-durable-jobs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ezequielranieri&repo=go-durable-jobs&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&icon_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ezequielranieri/go-iam-service">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ezequielranieri&repo=go-iam-service&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&icon_color=FFFFFF" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+### Engineering Principles
+
+| | |
+|---|---|
+| **01** | Architecture is a deliberate decision — hexagonal / clean boundaries between domain logic and infrastructure |
+| **02** | Security is a design constraint from day one, not a layer added at the end |
+| **03** | Systems are built to fail safely — idempotency, retries, dead-letter queues, observability |
+| **04** | Documentation and honest retrospectives are part of the deliverable, not an afterthought |
+
+<br>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezequielranieri&hide_border=true&theme=dark&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
+
+📍 Salto Grande, Santa Fe, Argentina
+
 </div>

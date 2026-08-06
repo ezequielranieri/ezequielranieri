@@ -1,10 +1,6 @@
 <div align="center">
 
-# EZEQUIEL RANIERI
-
-**Backend Engineer | AI-Fluent**
-
-Secure systems • IAM • Distributed Architecture
+<img src="badges/banner-name.svg" alt="Ezequiel Ranieri" width="100%" />
 
 <br>
 

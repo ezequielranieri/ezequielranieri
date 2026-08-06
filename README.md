@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="badges/banner-name.svg?v=4" alt="Ezequiel Ranieri" width="100%" />
+<img src="badges/banner-name.svg?v=5" alt="Ezequiel Ranieri" width="100%" />
 
 <br>
 

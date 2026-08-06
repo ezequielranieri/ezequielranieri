@@ -52,8 +52,8 @@ I build secure, scalable, production-grade backend systems — combining strong 
 
 | | |
 |---|---|
-| [![Secure AI/ML Driven Software Development](badges/lfel1012-secure-ai-ml-driven-software-development.png)](https://www.credly.com/badges/5a40b7c0-c673-4cb9-8845-1b2b9212eac3/public_url) | **Secure AI/ML Driven Software Development**<br>LFEL1012 — [Verify](https://www.credly.com/badges/5a40b7c0-c673-4cb9-8845-1b2b9212eac3/public_url) |
-| [![Developing Secure Software](badges/lfd121-developing-secure-software.1.png)](https://www.credly.com/badges/6cfd4b7b-97a2-41ba-a9aa-dae369f89453/public_url) | **Developing Secure Software**<br>LFD121 — [Verify](https://www.credly.com/badges/6cfd4b7b-97a2-41ba-a9aa-dae369f89453/public_url) |
+| [<img src="badges/lfel1012-secure-ai-ml-driven-software-development.png" width="140" />](https://www.credly.com/badges/5a40b7c0-c673-4cb9-8845-1b2b9212eac3/public_url) | **Secure AI/ML Driven Software Development**<br>LFEL1012 — [Verify](https://www.credly.com/badges/5a40b7c0-c673-4cb9-8845-1b2b9212eac3/public_url) |
+| [<img src="badges/lfd121-developing-secure-software.1.png" width="140" />](https://www.credly.com/badges/6cfd4b7b-97a2-41ba-a9aa-dae369f89453/public_url) | **Developing Secure Software**<br>LFD121 — [Verify](https://www.credly.com/badges/6cfd4b7b-97a2-41ba-a9aa-dae369f89453/public_url) |
 
 <br>
 

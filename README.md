@@ -14,6 +14,8 @@
 
 I build secure, scalable, production-grade backend systems — combining strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision. My focus: Identity & Access Management, distributed systems, and security engineering — currently deepening my expertise in **Go** for high-performance services.
 
+Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping friends with concrete problems and, over time, focused on what interests me most: security, backend systems, and clean architecture. I learned on my own — researching, building, and documenting every decision. Today I combine backend with artificial intelligence, always prioritizing secure, scalable, and maintainable systems. I'm motivated by understanding how systems work inside and building tools that genuinely solve problems.
+
 <br>
 
 ## Selected Work

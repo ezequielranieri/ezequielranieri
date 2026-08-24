@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=dark&hide_border=true)
+<img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="90%" />
 
 </div>
 

@@ -14,17 +14,17 @@
 ##%%%%%%%@@@@@@@@@@%@@%%#*%#**++++=+=+= .%%%@@%%%%%%%%#####   Contact.Email:......... ez.ranieri@gmail.com
 #%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Contact.LinkedIn:...... ezequielranieri
 %%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Contact.Portfolio:..... ezequielranieri.vercel.app
-%%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Certifications:...... Secure AI/ML Driven Dev (LF), Developing Secure SW (LF)
+%%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Certifications:...... Secure AI/ML Dev, Secure SW Dev (LF)
 %%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   GitHub.Repos:......... 22
 #%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   GitHub.Followers:..... 1
 #%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#   Status:............... Open to backend/security roles
-##%#%%%%%*-:        . .                                .=#   Currently.Learning:... Go concurrency patterns, distributed systems
-#####%%#:             .                                  .   Currently.Building:..... agro-agent (multi-tenant AI backend for agriculture)
-####%#+.          .  ..                                    Terminal:............... zsh + tmux
-####*-      .    .   .. ..   .                             Editor:................. VS Code + GoLand
-###=.     ..     .:--::===::-=.:::::. .. .:                Timezone:............... UTC-3
-%*:              +=+*+:++=+:=++:--+++ .--=+:-:             Pronouns:............... He/Him
-+                .::.....  .. ... ..:  .----:              
+##%#%%%%%*-:        . .                                .=#   Currently.Learning:... Go concurrency, distributed systems
+#####%%#:             .                                  .   Currently.Building:..... agro-agent (AI backend for agro)
+####%#+.          .  ..
+####*-      .    .   .. ..   .
+###=.     ..     .:--::===::-=.:::::. .. .:
+%*:              +=+*+:++=+:=++:--+++ .--=+:-:
++                .::.....  .. ... ..:  .----:
 ```
 
 <br>

@@ -109,17 +109,6 @@ Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping f
 
 <br>
 
-
-## Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="90%" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 **Let's build together.** &nbsp;→&nbsp; [ez.ranieri@gmail.com](mailto:ez.ranieri@gmail.com)

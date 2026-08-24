@@ -1,3 +1,50 @@
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="300">
+      <img src="badges/headshot.png" alt="Ezequiel Ranieri" width="250" style="border-radius: 50%;" />
+      <br /><br />
+      <strong>Ezequiel Ranieri</strong>
+      <br />
+      <code>@ezequielranieri</code>
+      <br /><br />
+      <a href="https://github.com/ezequielranieri?tab=followers">
+        <img src="https://img.shields.io/github/followers/ezequielranieri?label=Followers&style=flat-square&color=21262d&logo=github&logoColor=white" alt="Followers" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/ezequielranieri?tab=following">
+        <img src="https://img.shields.io/github/following/ezequielranieri?label=Following&style=flat-square&color=21262d&logo=github&logoColor=white" alt="Following" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Location-Salto%20Grande%2C%20Santa%20Fe%2C%20Argentina-21262d?style=flat-square&logo=map-pin&logoColor=white" alt="Location" />
+    </td>
+    <td valign="top">
+      <pre><code class="language-ini">ezequiel@ranieri
+--------------------------------------------------
+OS:            Linux (backend-first)
+Uptime:        self-taught, 3+ years
+Host:          Salto Grande, Santa Fe, AR
+Kernel:        Hexagonal / Clean Architecture
+IDE:           GoLand / VS Code
+Languages.Programming: Go, Python, TypeScript
+Languages.Infra:       PostgreSQL, Redis, RabbitMQ
+Languages.Human:       Spanish, English
+Focus:         IAM, Distributed Systems, Security Engineering
+Hobbies:       Security research, system design, self-hosting
+Contact.Email:     ez.ranieri@gmail.com
+Contact.LinkedIn:    ezequielranieri
+Contact.Portfolio:   ezequielranieri.vercel.app
+GitHub Stats
+Repos:         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387" alt="Repos" /></a>
+Stars:         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Stars" /></a>
+Commits:       <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Commits" /></a>
+Followers:     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Followers" /></a>
+Lines of Code: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Lines%20of%20Code&include_all_commits=true" /></a></code></pre>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
 
 <img src="badges/bannergithub.jpg" alt="Ezequiel Ranieri" width="100%" />

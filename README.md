@@ -1,7 +1,7 @@
-<table align="center">
+<table width="100%">
   <tr>
     <td valign="top" width="45%">
-      <pre>#########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%####*********
+      <pre style="font-size: 10px; line-height: 1.1; margin: 0;">#########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%####*********
 #########%%%%%%%%%%%%%%%%%@@@@@@@@@%%%%%%%%%%%#######*****
 ######%%%%%%%%%%%%%@@%%@@@%%#+==+*%@@@@%%%%%%%%#########**
 **###%%%%%%%%%%%%%@%%@@#+-.:       :+*%@@%@@%%%%##########
@@ -40,8 +40,8 @@ IDE:................... GoLand / VS Code
 Languages.Programming:. Go, Python, TypeScript
 Languages.Infra:....... PostgreSQL, Redis, RabbitMQ
 Languages.Human:....... Spanish, English
-Focus:................. IAM, Distributed Systems, Security Engineering
-Hobbies:............... Security research, system design, self-hosting
+Focus:................. IAM, Security, Distributed Systems
+Hobbies:............... Security research, system design
 Contact.Email:......... ez.ranieri@gmail.com
 Contact.LinkedIn:...... ezequielranieri
 Contact.Portfolio:..... ezequielranieri.vercel.app</code></pre>
@@ -53,7 +53,7 @@ Contact.Portfolio:..... ezequielranieri.vercel.app</code></pre>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 

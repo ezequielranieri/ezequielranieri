@@ -75,7 +75,8 @@ jobs:
           fi
           
           # Replace the line starting with "Last public push.." (label padded to 18 chars)
-          sed -i "s/^\(Last public push\.\{2\}\).*/$NEW_LINE/" README.md
+          # Use | as delimiter to avoid issues with / in repo names
+          sed -i "s|^\(Last public push\.\{2\}\).*|$NEW_LINE|" README.md
           
           if git diff --quiet README.md; then
             echo "changed=false" >> $GITHUB_OUTPUT

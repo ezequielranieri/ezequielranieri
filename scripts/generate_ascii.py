@@ -6,37 +6,37 @@ Usage: python scripts/generate_ascii.py <input_image> <output_text_file>
 
 import sys
 from pathlib import Path
-from PIL import Image, ImageFilter, ImageOps
+from PIL import Image, ImageFilter, ImageOps, ImageEnhance
 
 
-def image_to_ascii(input_path: str, output_path: str, width: int = 90) -> None:
+def image_to_ascii(input_path: str, output_path: str, width: int = 58, char_aspect: float = 0.48) -> None:
     """Convert image to ASCII art and save as plain text."""
     # Load image in grayscale
     img = Image.open(input_path).convert("L")
 
-    # Apply autocontrast (cutoff=2) and increase contrast by 1.3x
+    # Apply autocontrast (cutoff=2)
     img = ImageOps.autocontrast(img, cutoff=2)
-    img = ImageOps.autocontrast(img, cutoff=0)  # Reset for contrast enhancement
-    from PIL import ImageEnhance
+
+    # Increase contrast by 1.3x
     enhancer = ImageEnhance.Contrast(img)
     img = enhancer.enhance(1.3)
 
     # Apply SHARPEN filter
     img = img.filter(ImageFilter.SHARPEN)
 
-    # Resize to target width, proportional height (0.5 factor for monospace char aspect)
+    # Resize to target width, proportional height with char_aspect factor
     orig_w, orig_h = img.size
-    new_h = int(orig_h / orig_w * width * 0.5)
+    new_h = int(orig_h / orig_w * width * char_aspect)
     img = img.resize((width, new_h), Image.Resampling.LANCZOS)
 
-    # Character ramp from light/sparse to dark/dense
+    # Character ramp from light/sparse to dark/dense (10 chars, index 0-9)
     ramp = " .:-=+*#%@"
 
-    # Map each pixel to a character
+    # Map each pixel to a character: index = int(pixel / 255 * 9)
     pixels = img.load()
     ascii_lines = []
     for y in range(new_h):
-        line = "".join(ramp[int(pixels[x, y] / 255 * (len(ramp) - 1))] for x in range(width))
+        line = "".join(ramp[int(pixels[x, y] / 255 * 9)] for x in range(width))
         ascii_lines.append(line)
 
     # Save as plain text

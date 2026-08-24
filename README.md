@@ -17,7 +17,7 @@
 %%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Certifications:...... Secure AI/ML Dev, Secure SW Dev (LF)
 %%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   GitHub.Repos:......... [22]
 #%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   GitHub.Followers:..... 1
-#%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#   ▸ Status:............. Open to backend/security roles
+#%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#    ▸ Status:............ Open to backend/security roles
 ##%#%%%%%*-:        . .                                .=#   Currently.Learning:... Go concurrency, distributed systems
 #####%%#:             .                                  .   Currently.Building:..... agro-agent (AI backend for agro)
 ####%#+.          .  ..

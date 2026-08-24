@@ -5,11 +5,12 @@
 **###%%%%%%%%%%%%%@%%@@#+-.:       :+*%@@%@@%%%%##########   Uptime............ Self-taught, 1+ year
 **####%%%%%@@@@@@@%@@*-.              .=@%%@@@%%%#########   Host.............. Salto Grande, Santa Fe
 #####%%%%%%@@@@@@%@%-                   =%%%@@@%%%%%######   Kernel............ Hexagonal / Clean Arch
-#####%%%%%@@@@@@%%%:                     =%%@@@%%%%%######   Shell............. Go (primary) · Python
-####%%%%%@@@@@@@%@#         .             *@%@@@%%%%%######   IDE............... VS Code · OpenCode
-###%%%%%@@@@@@@@%@#     :++.:=.       .   *@%@@@%%%%%######   Languages......... Go, Python, SQL
-###%%%%@@@@@@@@@@@%-.:-=====+*#**#+:-+*=- *@%@@@%%%%%%#####   Infra............. PostgreSQL, Redis, RabbitMQ
-###%%%%@@@@@@@@@@%%*::#-  ..-*%%##+=#=:+= %@%@@@%%%%%%%####   Focus............. IAM, Multi-tenant, Security
+#####%%%%%@@@@@@%%%:                     =%%@@@%%%%%######   Shell............. bash
+####%%%%%@@@@@@@%@#         .             *@%@@@%%%%%######   Primary Stack..... Go (primary) · Python
+###%%%%%@@@@@@@@%@#     :++.:=.       .   *@%@@@%%%%%######   IDE............... VS Code · OpenCode
+###%%%%@@@@@@@@@@@%-.:-=====+*#**#+:-+*=- *@%@@@%%%%%%#####   Languages......... Go, Python, SQL
+###%%%%@@@@@@@@@@%%*::#-  ..-*%%##+=#=:+= %@%@@@%%%%%%%####   Infra............. PostgreSQL, Redis, RabbitMQ
+###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Focus............. IAM, Multi-tenant, Security
 ###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Specialties....... RLS, Token rotation, HITL
 ##%%%%%%%@@@@@@@@@@%@@%%#*%#**++++=+=+= .%%%@@%%%%%%%%#####   Status............ Open to backend/security
 #%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Learning.......... Go concurrency, Agent evals
@@ -108,6 +109,7 @@ Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping f
 | **04** | Documentation and honest retrospectives are part of the deliverable, not an afterthought |
 
 <br>
+
 
 <div align="center">
 

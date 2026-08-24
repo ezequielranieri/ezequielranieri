@@ -1,95 +1,5 @@
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="300">
-      <img src="badges/headshot.png" alt="Ezequiel Ranieri" width="250" style="border-radius: 50%;" />
-      <br /><br />
-      <strong>Ezequiel Ranieri</strong>
-      <br />
-      <code>@ezequielranieri</code>
-      <br /><br />
-      <a href="https://github.com/ezequielranieri?tab=followers">
-        <img src="https://img.shields.io/github/followers/ezequielranieri?label=Followers&style=flat-square&color=21262d&logo=github&logoColor=white" alt="Followers" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/ezequielranieri?tab=following">
-        <img src="https://img.shields.io/github/following/ezequielranieri?label=Following&style=flat-square&color=21262d&logo=github&logoColor=white" alt="Following" />
-      </a>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Location-Salto%20Grande%2C%20Santa%20Fe%2C%20Argentina-21262d?style=flat-square&logo=map-pin&logoColor=white" alt="Location" />
-    </td>
-    <td valign="top">
-      <pre><code class="language-ini">ezequiel@ranieri
---------------------------------------------------
-OS:            Linux (backend-first)
-Uptime:        self-taught, 3+ years
-Host:          Salto Grande, Santa Fe, AR
-Kernel:        Hexagonal / Clean Architecture
-IDE:           GoLand / VS Code
-Languages.Programming: Go, Python, TypeScript
-Languages.Infra:       PostgreSQL, Redis, RabbitMQ
-Languages.Human:       Spanish, English
-Focus:         IAM, Distributed Systems, Security Engineering
-Hobbies:       Security research, system design, self-hosting
-Contact.Email:     ez.ranieri@gmail.com
-Contact.LinkedIn:    ezequielranieri
-Contact.Portfolio:   ezequielranieri.vercel.app
-GitHub Stats
-Repos:         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387" alt="Repos" /></a>
-Stars:         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Stars" /></a>
-Commits:       <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Commits" /></a>
-Followers:     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Followers" /></a>
-Lines of Code: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Lines%20of%20Code&include_all_commits=true" /></a></code></pre>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<img src="badges/bannergithub.jpg" alt="Ezequiel Ranieri" width="100%" />
-
-<br>
-
-[![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ezequielranieri.vercel.app/en/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
-
-</div>
-
----
-
-I build secure, scalable, production-grade backend systems — combining strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision. My focus: Identity & Access Management, distributed systems, and security engineering — currently deepening my expertise in **Go** for high-performance services.
-
-Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping friends with concrete problems and, over time, focused on what interests me most: security, backend systems, and clean architecture. I learned on my own — researching, building, and documenting every decision. Today I combine backend with artificial intelligence, always prioritizing secure, scalable, and maintainable systems. I'm motivated by understanding how systems work inside and building tools that genuinely solve problems.
-
-<br>
-
-<table><tr><td width="45%"><pre>###############%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%@%%%%%%%%%%%%%%%%%######***************##############%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@%@@@%%%%%%%%%%%%%%%%%%#########***********###############%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%###########********###########%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@%%%@@@@@@@@@@%%%%%%%%%%%%%%############*****#########%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@%%#+=-::-:=*%@@@@@@@@%%%%%%%%%%%##############******#####%%%%%%%%%%%%%%%%%%%%@@@@@@@@@%#=:.:.         .:+#%@@@@@@%%@@%%%%%%################****####%%%%%%%%%%%%%%%%%@@@@@@@@@@#+:    ..             .-+%@@@@@@@@@@%%%%###############***######%%%%%%%%@@@@@@@@@@@@@@@@#-...                      .*@@@@@@@@@@%%%%%#####################%%%%%%%%@@@@@@@@@@@@@@@%=                             +@@@@@@@@@%%%%%%####################%%%%%%%%@@@@@@@@@@@@@@#:                              .*%@@@@@@@@@%%%%%%%#################%%%%%%%%@@@@@@@@@@@@@#.                                 *@@@@@@@@@%%%%%%%################%%%%%%%%@@@@@@@@@@@@@@-                                  :#@@@@@@@%%%%%%%%########*######%%%%%%%@@@@@@@@@@@@@@@%:              .                    -@@@@@@%%%%%%%%%#########
-######%%%%%%%@@@@@@@@@@@@@@@%.         .:   :.                   +@@@@@@@%%%%%%%###############%%%%%%@@@@@@@@@@@@@@@@@%-       :=*#*: -=+:    .     .::.   =@@@@@@@%%%%%%%%##############%%%%%%@@@@@@@@@@@@@@@@@@*..  .-+***++++*###*+*#*=-::-*#+-=  -@@@@@@@%%%%%%%%%#############%%%%%@@@@@@@@@@@@@@@@@@@*:--=+=:.  ::--=+*######+--=+==*++: +@@@@@@@%%%%%%%%%%%###########%%%%%%@@@@@@@@@@@@@@@@@@%+: .#+:   ::..-+#%%##**+-+#+-::*+: *@@@@@@@%%%%%%%%%%############%%%%%%@@@@@@@@@@@@@@@@@@@@+.:%%*===:-=+#%%%%##*++=*##=+=++ .%@@@@@@@%%%%%%%%%############%%%%%%%%@@@@@@@@@@@@@@@@@@@@#%%#*##%##%%%####**+++=++=*##+. +@@@@@@@%%%%%%%%%%############%%%%%%%%@@@@@@@@@@@@@@@@@@@%@@%%##*#%%##**++++++++=+==++-  :%@@@@@@%%%%%%%%%%%##########%%%%%%%%%%%%@@@@@@@@@@@@@@@@@%%#####*+*##***++++++++=+==+-   #@@@@@@%%%%%%%%%%%%##########%%%%%%%%%%%%@@@@@@@@@@@@@@@@@%#=: .:=*#********++++===++*+  .#@@@@@@%%%%%%%%%%%%%#######%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@#-:--==+**++****++===--++**: =%@@@@@@%%%%%%%%%%%%########%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@#--::-:::=**+++++=--::=++***#%@@@@@@@%%%%%%%%%%%%########%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%*+=-------====---:::=++++*#%%@@@@@@@@@%%%%%%%%%%%#######%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@*:..:------::....:-=++++**#-:=#@@@@@@%%%%%%%%%%%#######%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@%#+--===:.      .:-=+*****###=  -+#%%@@@%%%%%%%%%#######%%%%%%%%%%%%@@@@@@@@@@@@@@@@%%#*+=+-    ...      .:-=+*****##%#-    :==+*#%%%%%%%%#########%%%%%%%%%%%%%@@@@@@@@@@%#*+=-::.:-.    .---:.   .:-=+*###%%#+.     .:::-==+**#%%%%%#######%%%%%%%%%%%%%%@@@@%%*+=-:..... ....        ......::-===--:.             .....::-=+*#%######%%%%%%%%%%%%@@%*=-:.          .                                                  .:=*######%##%%%%%%%@#=:...           .. .                                                   .-*########%%%%%%=.  .                ..                                                    .=#######%%%%#-                    ...                                                      #######%%#*-                ..   ...                                                      ######%#*+:               ....  ....               ..                                     ######*+-          .      ...  ....   ..       .  ..                                      #####+=.         ..       .    .....:=:=  ...=.  . ..                                     ####+-          ..         :=++*:==-++=+.=--+*::---=:--::. ...  :=:                       ###+:                     :%- =#+*..#+*+*+  +#=*. -=.#*=+. .=-:.-=- .:-.                  ##=                       .*+=*+:+-=+:+::=--+=.+-:--.--=#:  .-+++++=+=:                   *:                          ....          .     ..   ....    .:-:--::                                                                                                                                                                                                         </pre></td><td width="55%"><pre>ezequiel@ranieri
-----------------
-OS: ................ Linux (backend-first)
-Uptime: ............. self-taught, 3+ years
-Host: ............... Salto Grande, Santa Fe, AR
-Kernel: ............. Hexagonal / Clean Architecture
-IDE: ................ GoLand / VS Code
-Languages.Programming: Go, Python, TypeScript
-Languages.Infra: ...... PostgreSQL, Redis, RabbitMQ
-Languages.Human: ...... Spanish, English
-Focus: .............. IAM, Distributed Systems, Security
-Hobbies: ............ Security research, system design
-Contact.Email: ....... ez.ranieri@gmail.com
-Contact.LinkedIn: .... ezequielranieri
-Contact.Portfolio: ... ezequielranieri.vercel.app
-GitHub Stats
-Repos: .... XX  |  Stars: .... XX
-Commits: .. XX  |  Followers:  XX
-Lines of Code: XX ( +XX / -XX )</pre></td></tr></table>
-
-<br>
-
-<table align="center">
-  <tr>
     <td valign="top" width="50%">
       <pre>###############%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%######***************
 ##############%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@%%%@@@%%%%%%%%%%%%%%%%%%#########***********
@@ -125,17 +35,15 @@ Lines of Code: XX ( +XX / -XX )</pre></td></tr></table>
 ##%%%%%%%%%%%%@@%*=-:.          .                                                  .:=*%%#
 ###%##%%%%%%%@#=:...           .. ..                                                  .-*#
 #######%%%%%%=.  .                ..                                                    .=
-########%%%#-                    ...                                                       
-#######%%#*-                ..   ...                                                       
-######%#*+.               ....  ....               ..                                      
-######*+-          .      ...  ....   ..       .. ..                                       
-###%#+=:         ..       .     . ..:=:=  ...=.  .  .          .                           
-####+-  .       ..         :+++*:-=-*+=+.=--+#.:---=:--::. ...  :+:                        
-###+:                     :%- +%+#  #=#+**  +#=#  -=.#*=+. .=-: -=- .:-.                   
-%#=                       .*+=#+:+-=+:+::=--+=.+-:--.--+#.  .-+++++=+=:                    
-#:                          .. .          .     ..   ....    .:-:-=::                      
-                                                                                          
-                                                                                           </pre>
+########%%%#-                    ...
+#######%%#*-                ..   ...
+######%#*+.               ....  ....               ..
+######*+-          .      ...  ....   ..       .. ..
+###%#+=:         ..       .     . ..:=:=  ...=.  .  .          .
+####+-  .       ..         :+++*:-=-*+=+.=--+#.:---=:--::. ...  :+:
+###+:                     :%- +%+#  #=#+**  +#=#  -=.#*=+. .=-: -=- .:-.
+%#=                       .*+=#+:+-=+:+::=--+=.+-:--.--+#.  .-+++++=+=:
+#:                          .. .          .     ..   ....    .:-:-=::</pre>
     </td>
     <td valign="top" width="50%">
       <pre><code class="language-ini">ezequiel@ranieri
@@ -162,6 +70,27 @@ Lines of Code: <a href="https://github.com/anuraghazra/github-readme-stats"><img
     </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+<img src="badges/bannergithub.jpg" alt="Ezequiel Ranieri" width="100%" />
+
+<br>
+
+
+[![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ezequielranieri.vercel.app/en/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
+
+</div>
+
+---
+
+I build secure, scalable, production-grade backend systems — combining strong architectural thinking with modern AI-assisted workflows to deliver high-quality solutions with speed and precision. My focus: Identity & Access Management, distributed systems, and security engineering — currently deepening my expertise in **Go** for high-performance services.
+
+Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping friends with concrete problems and, over time, focused on what interests me most: security, backend systems, and clean architecture. I learned on my own — researching, building, and documenting every decision. Today I combine backend with artificial intelligence, always prioritizing secure, scalable, and maintainable systems. I'm motivated by understanding how systems work inside and building tools that genuinely solve problems.
 
 <br>
 
@@ -204,6 +133,7 @@ Lines of Code: <a href="https://github.com/anuraghazra/github-readme-stats"><img
 
 <br>
 
+
 ## Engineering Principles
 
 | | |
@@ -214,6 +144,7 @@ Lines of Code: <a href="https://github.com/anuraghazra/github-readme-stats"><img
 | **04** | Documentation and honest retrospectives are part of the deliverable, not an afterthought |
 
 <br>
+
 
 ## Activity
 

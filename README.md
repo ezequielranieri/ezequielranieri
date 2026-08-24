@@ -35,8 +35,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img src="badges/bannergithub.jpg" alt="Ezequiel Ranieri" width="100%" />

@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ezequielranieri
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=monochrome
-            dist/github-contribution-grid-snake-dark.svg?palette=monochrome
+            dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#0d1117,#21262d,#30363d,#8b949e,#e0e0e0
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#0d1117,#21262d,#30363d,#8b949e,#e0e0e0
 
       - name: Push snake svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -64,6 +64,7 @@ jobs:
           echo "days=$DAYS_STR" >> $GITHUB_OUTPUT
 
       - name: Update README with last public push info
+        id: update-readme
         run: |
           REPO="${{ steps.fetch.outputs.repo }}"
           DAYS="${{ steps.fetch.outputs.days }}"
@@ -85,7 +86,7 @@ jobs:
           fi
 
       - name: Commit and push if changed
-        if: steps.update-last-commit.outputs.changed == 'true'
+        if: steps.update-readme.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

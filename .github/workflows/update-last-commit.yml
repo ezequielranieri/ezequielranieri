@@ -75,9 +75,9 @@ jobs:
             NEW_LINE="Last public push.. $DAYS ($REPO)"
           fi
           
-          # Replace the line starting with "Last public push.." (label padded to 18 chars)
+          # Replace the line containing "Last public push.." (anywhere in the line)
           # Use | as delimiter to avoid issues with / in repo names
-          sed -i "s|^\(Last public push\.\{2\}\).*|$NEW_LINE|" README.md
+          sed -i "s|Last public push\.\{2\}.*|$NEW_LINE|" README.md
           
           if git diff --quiet README.md; then
             echo "changed=false" >> $GITHUB_OUTPUT

@@ -88,6 +88,83 @@ Lines of Code: XX ( +XX / -XX )</pre></td></tr></table>
 
 <br>
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <pre>###############%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%######***************
+##############%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@%%%@@@%%%%%%%%%%%%%%%%%%#########***********
+###############%%%%%%%%%%%%%%%%%%%%%%@@@@%%%%%%@@%%%%%%@%%%%%%%%%%%%%%%###########********
+###########%%%%%%%%%%%%%%%%%%@@@@@@@@@%%%@@@@@@%@@@@@@%%%@@%%%%%%%%%%%%%%############*****
+#########%%%%%%%%%%%%%%%%%%%%@@@@@@%%%@@@%%#+=-.:-:=*%@@@@%%%@%%%%%%%%%%%##############***
+***#####%%%%%%%%%%%%%%%%%%%%@@@@@%%@@@#=:.:.         .:+#%@@@%@@%%@@%%%%%%################
+****####%%%%%%%%%%%%%%%%%@@@@@@%%@@#=:    ..             .-+%@%@@@@@@@@%%%%###############
+***######%%%%%%%%@@@@@@@@@@@@@%@@#-.                        .*@%@@@@@@@@%%%%%#############
+########%%%%%%%%@@@@@@@@@@@@@%@%=                             +@%@@@@@@@%%%%%%############
+########%%%%%%%%@@@@@@@@@@@@%@#.                               *@%@@@@@@@@%%%%%%%#########
+########%%%%%%%%@@@@@@@@@@@%%#                                  *@%@@@@@@@%%%%%%%#########
+#######%%%%%%%%@@@@@@@@@@@@%@-                                  :#@%@@@@@%%%%%%%%########*
+######%%%%%%%@@@@@@@@@@@@@@%@:              :                    -@%@@@@%%%%%%%%%#########
+######%%%%%%%@@@@@@@@@@@@@%@%.          :   :.                   +@%@@@@@%%%%%%%##########
+#####%%%%%%@@@@@@@@@@@@@@@%%%-       :=*#*: -++:    .      ::.   =@%@@@@@%%%%%%%%#########
+#####%%%%%%@@@@@@@@@@@@@@@@%@*..   =****++++*###*+*#*==::-*#+-=  -@%@@@@@%%%%%%%%%########
+#####%%%%@@@@@@@@@@@@@@@@@@%@*:--=+=:.  ::--=+*##%###+--=+==*=+- +@%@@@@@%%%%%%%%%%%######
+#####%%%%%%@@@@@@@@@@@@@@@@@@%%%+:  #+:   ::..-+#%###**+-+#+:::*+: *@%@@@@@%%%%%%%%%%#######
+#####%%%%%%@@@@@@@@@@@@@@@@@@@@@* :%%*===::=+#%%%%##*++=*##=+=++  %@%@@@@@%%%%%%%%%########
+####%%%%%%%%@@@@@@@@@@@@@@@@@%%@#%%**##%##%@%####**+++=++=*%#+. +@%@@@@@%%%%%%%%%%########
+####%%%%%%%%@@@@@@@@@@@@@@@@@@@%@@%%##**%%##**++++++++=+-=++-  :%%%@@@@%%%%%%%%%%%########
+##%%%%%%%%%%%%@@@@@@@@@@@@@@@@@%%####%++*##***++++++++=+==+-   %@%@@@@%%%%%%%%%%%%########
+##%%%%%%%%%%%%@@@@@@@@@@@@@@@@%%#=:  :=##********++++===++*+   #%%@@@@%%%%%%%%%%%%%#######
+%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@%@#-:--==+**++****++===--++**: =%%@@@@@%%%%%%%%%%%%#%######
+%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@%%#-=::-:.:=**+++++=--::=++***#@@%%@@@@%%%%%%%%%%%%########
+%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%*==-------====---:::=++++*#@%@@@%%%%@@%%%%%%%%%%%#######
+%%%%%%%%%@@@@@@@@@@@@@@@@@@@%%%%%%@*:..:-==---::....:-=++++**#-:=#@@@@%%%%%%%%%%%%%#######
+%%%%%%%%%@@@@@@@@@@@@@@@%%%%@@@@@@%%+--===:.      .:-=+*****##%=  -+#%@@@@%%%%%%%%%#######
+%%%%%%%%%%%@@@@@@@@@@@@@%%@@@@%%#*+=+:    ...      .:-=+*****##%%=    :==+*#%%%%%%%%########
+#%%%%%%%%%%%%%@@%%%@@@@@%%*+=-::.:=.    .-=-:.   .-==+*##%%%#+.     .:::--=+**#%%%%%######
+#%%%%%%%%%%%%%%%@@@%%*+=-:. ... .. .        ......::-===--:.             .....::-=+##%####
+##%%%%%%%%%%%%@@%*=-:.          .                                                  .:=*%%#
+###%##%%%%%%%@#=:...           .. ..                                                  .-*#
+#######%%%%%%=.  .                ..                                                    .=
+########%%%#-                    ...                                                       
+#######%%#*-                ..   ...                                                       
+######%#*+.               ....  ....               ..                                      
+######*+-          .      ...  ....   ..       .. ..                                       
+###%#+=:         ..       .     . ..:=:=  ...=.  .  .          .                           
+####+-  .       ..         :+++*:-=-*+=+.=--+#.:---=:--::. ...  :+:                        
+###+:                     :%- +%+#  #=#+**  +#=#  -=.#*=+. .=-: -=- .:-.                   
+%#=                       .*+=#+:+-=+:+::=--+=.+-:--.--+#.  .-+++++=+=:                    
+#:                          .. .          .     ..   ....    .:-:-=::                      
+                                                                                          
+                                                                                           </pre>
+    </td>
+    <td valign="top" width="50%">
+      <pre><code class="language-ini">ezequiel@ranieri
+--------------------------------------------------
+OS:            Linux (backend-first)
+Uptime:        self-taught, 3+ years
+Host:          Salto Grande, Santa Fe, AR
+Kernel:        Hexagonal / Clean Architecture
+IDE:           GoLand / VS Code
+Languages.Programming: Go, Python, TypeScript
+Languages.Infra:       PostgreSQL, Redis, RabbitMQ
+Languages.Human:       Spanish, English
+Focus:         IAM, Distributed Systems, Security Engineering
+Hobbies:       Security research, system design, self-hosting
+Contact.Email:     ez.ranieri@gmail.com
+Contact.LinkedIn:    ezequielranieri
+Contact.Portfolio:   ezequielranieri.vercel.app
+GitHub Stats
+Repos:         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387" alt="Repos" /></a>
+Stars:         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Stars" /></a>
+Commits:       <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Commits" /></a>
+Followers:     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Followers" /></a>
+Lines of Code: <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ezequielranieri&show_icons=false&count_private=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=fab387&custom_title=Lines%20of%20Code&include_all_commits=true" /></a></code></pre>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## Selected Work
 
 | Project | Description | Stack |

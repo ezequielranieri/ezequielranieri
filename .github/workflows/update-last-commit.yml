@@ -1,0 +1,94 @@
+# .github/workflows/update-last-commit.yml
+name: Update Last Public Push in README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:       # Manual trigger
+  push:
+    branches: [main]       # Test on push to main
+
+permissions:
+  contents: write          # Needed to push README changes
+
+jobs:
+  update-last-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch latest public push event
+        id: fetch
+        run: |
+          # Get public events for the user
+          EVENTS=$(curl -s -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/users/ezequielranieri/events/public?per_page=100")
+          
+          # Find the most recent PushEvent (not just any event)
+          # Filter for PushEvent, get repo name and created_at
+          LATEST=$(echo "$EVENTS" | jq -r '
+            map(select(.type == "PushEvent")) 
+            | sort_by(.created_at) 
+            | reverse 
+            | .[0] 
+            | {repo: .repo.name, date: .created_at}
+          ')
+          
+          if [ "$LATEST" = "null" ] || [ -z "$LATEST" ]; then
+            echo "No public push events found"
+            echo "repo=" >> $GITHUB_OUTPUT
+            echo "days=sin actividad reciente" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          REPO=$(echo "$LATEST" | jq -r '.repo')
+          DATE=$(echo "$LATEST" | jq -r '.date')
+          
+          # Calculate days since
+          NOW=$(date -u +%s)
+          THEN=$(date -u -d "$DATE" +%s 2>/dev/null || date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "$DATE" +%s 2>/dev/null)
+          DAYS=$(( (NOW - THEN) / 86400 ))
+          
+          if [ $DAYS -eq 0 ]; then
+            DAYS_STR="hoy"
+          elif [ $DAYS -eq 1 ]; then
+            DAYS_STR="hace 1 día"
+          else
+            DAYS_STR="hace $DAYS días"
+          fi
+          
+          echo "repo=$REPO" >> $GITHUB_OUTPUT
+          echo "days=$DAYS_STR" >> $GITHUB_OUTPUT
+
+      - name: Update README with last public push info
+        run: |
+          REPO="${{ steps.fetch.outputs.repo }}"
+          DAYS="${{ steps.fetch.outputs.days }}"
+          
+          if [ -z "$REPO" ]; then
+            NEW_LINE="Last public push...... $DAYS"
+          else
+            NEW_LINE="Last public push...... $DAYS ($REPO)"
+          fi
+          
+          sed -i "s|<!--LAST_COMMIT:START-->.*<!--LAST_COMMIT:END-->|<!--LAST_COMMIT:START-->$NEW_LINE<!--LAST_COMMIT:END-->|" README.md
+          
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.update-last-commit.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update last public push timestamp in README
+          
+          Auto-updated via GitHub Actions"
+          git push

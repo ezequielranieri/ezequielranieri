@@ -15,9 +15,9 @@
 #%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Contact.LinkedIn:...... ezequielranieri
 %%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Contact.Portfolio:..... ezequielranieri.vercel.app
 %%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Certifications:...... Secure AI/ML Dev, Secure SW Dev (LF)
-%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   GitHub.Repos:......... 22
+%%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   GitHub.Repos:......... [22]
 #%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   GitHub.Followers:..... 1
-#%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#   Status:............... Open to backend/security roles
+#%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#   ▸ Status:............. Open to backend/security roles
 ##%#%%%%%*-:        . .                                .=#   Currently.Learning:... Go concurrency, distributed systems
 #####%%#:             .                                  .   Currently.Building:..... agro-agent (AI backend for agro)
 ####%#+.          .  ..
@@ -34,6 +34,8 @@
 <img src="https://raw.githubusercontent.com/ezequielranieri/ezequielranieri/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="90%" />
 
 </div>
+
+<br>
 
 <div align="center">
 

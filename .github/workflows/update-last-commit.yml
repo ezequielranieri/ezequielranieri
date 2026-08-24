@@ -69,13 +69,13 @@ jobs:
           DAYS="${{ steps.fetch.outputs.days }}"
           
           if [ -z "$REPO" ]; then
-            NEW_LINE="Last public push.... $DAYS"
+            NEW_LINE="Last public push.. $DAYS"
           else
-            NEW_LINE="Last public push.... $DAYS ($REPO)"
+            NEW_LINE="Last public push.. $DAYS ($REPO)"
           fi
           
-          # Replace the line starting with "Last public push" (label padded to 18 chars)
-          sed -i "s/^\(Last public push\.\{4,\}\).*/$NEW_LINE/" README.md
+          # Replace the line starting with "Last public push.." (label padded to 18 chars)
+          sed -i "s/^\(Last public push\.\{2\}\).*/$NEW_LINE/" README.md
           
           if git diff --quiet README.md; then
             echo "changed=false" >> $GITHUB_OUTPUT

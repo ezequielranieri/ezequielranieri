@@ -17,7 +17,7 @@
 %%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... agent-gateway · mettle
 %%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Contact........... ez.ranieri@gmail.com
 %%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   Portfolio......... ezequielranieri.vercel.app
-#%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. hoy (ezequielranieri/agent-gateway)
+#%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. hace 1 día (ezequielranieri/agent-gateway)
 #%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#    
 ##%#%%%%%*-:        . .                                .=#    
 #####%%#:             .                                  .    

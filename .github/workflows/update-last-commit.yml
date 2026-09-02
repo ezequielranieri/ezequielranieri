@@ -53,11 +53,11 @@ jobs:
           DAYS=$(( (NOW - THEN) / 86400 ))
           
           if [ $DAYS -eq 0 ]; then
-            DAYS_STR="hoy"
+            DAYS_STR="today"
           elif [ $DAYS -eq 1 ]; then
-            DAYS_STR="hace 1 día"
+            DAYS_STR="yesterday"
           else
-            DAYS_STR="hace $DAYS días"
+            DAYS_STR="$DAYS days ago"
           fi
           
           echo "repo=$REPO" >> $GITHUB_OUTPUT

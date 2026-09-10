@@ -13,8 +13,8 @@
 ###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Focus............. IAM, Multi-tenant, Security
 ###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Specialties....... RLS, Token rotation, HITL
 ##%%%%%%%@@@@@@@@@@%@@%%#*%#**++++=+=+= .%%%@@%%%%%%%%#####   Status............ Open to backend/security
-#%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Learning.......... Go concurrency, agent evals
-%%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... agent-gateway · mettle
+#%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Learning.......... Rust concurrency, agent evals
+%%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... agent-gateway · mettle · aegis
 %%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Contact........... ez.ranieri@gmail.com
 %%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   Portfolio......... ezequielranieri.vercel.app
 #%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. 3 days ago (ezequielranieri/portfolio)

@@ -81,7 +81,7 @@ Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping f
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,rust,fastapi,docker,postgres,redis,rabbitmq,nextjs,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,rust,fastapi,docker,postgres,redis,rabbitmq,git&theme=dark" />
 
 </div>
 

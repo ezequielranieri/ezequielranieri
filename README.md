@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="badges/bannergithub.jpg" alt="Ezequiel Ranieri" width="100%" />
+<img src="badges/bannergithub.png" alt="Ezequiel Ranieri" width="100%" />
 
 <br>
 

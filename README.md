@@ -15,7 +15,7 @@
 ##%%%%%%%@@@@@@@@@@%@@%%#*%#**++++=+=+= .%%%@@%%%%%%%%#####   Status............ Open to backend/security
 #%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Learning.......... Rust concurrency, agent evals
 %%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... agent-gateway · mettle · aegis
-%%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Contact........... ez.ranieri@gmail.com
+%%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Contact........... ezequielranieri.contact@gmail.com
 %%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   Portfolio......... ezequielranieri.vercel.app
 #%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. 9 days ago (ezequielranieri/ezequielranieri)
 #%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#    
@@ -45,7 +45,7 @@
 <br>
 
 
-[![Email](https://img.shields.io/badge/-ez.ranieri%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ez.ranieri@gmail.com)
+[![Email](https://img.shields.io/badge/-ezequielranieri.contact%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ezequielranieri.contact@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ezequielranieri.vercel.app/en/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
 
@@ -111,7 +111,7 @@ Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping f
 
 <div align="center">
 
-**Let's build together.** &nbsp;→&nbsp; [ez.ranieri@gmail.com](mailto:ez.ranieri@gmail.com)
+**Let's build together.** &nbsp;→&nbsp; [ezequielranieri.contact@gmail.com](mailto:ezequielranieri.contact@gmail.com)
 
 Salto Grande, Santa Fe, Argentina
 

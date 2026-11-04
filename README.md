@@ -6,15 +6,15 @@
 **####%%%%%@@@@@@@%@@*-.              .=@%%@@@%%%#########   Host.............. Salto Grande, Santa Fe
 #####%%%%%%@@@@@@%@%-                   =%%%@@@%%%%%######   Kernel............ Hexagonal / Clean Arch
 #####%%%%%@@@@@@%%%:                     =%%@@@%%%%%######   Shell............. ghostty · bash · herdr
-####%%%%%@@@@@@@%@#         .             *@%@@@%%%%%######   Primary Stack..... Go (primary) · Rust · Python
+####%%%%%@@@@@@@%@#         .             *@%@@@%%%%%######   Primary Stack..... Go (primary) · PostgreSQL · Linux
 ###%%%%%@@@@@@@@%@#     :++.:=.       .   *@%@@@%%%%%######   IDE............... Pi + Visual Studio Code
 ###%%%%@@@@@@@@@@@%-.:-=====+*#**#+:-+*=- *@%@@@%%%%%%#####   Languages......... Go, Python, SQL
 ###%%%%@@@@@@@@@@%%*::#-  ..-*%%##+=#=:+= %@%@@@%%%%%%%####   Infra............. PostgreSQL, Redis, RabbitMQ
-###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Focus............. IAM, Multi-tenant, Security
-###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Specialties....... RLS, Token rotation, HITL
+###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Focus............. Backend & Security Engineering · IAM · RLS
+###%%%%@@@@@@@@@@@%@*+%**#+*%%##*+=+*+*+.-@%@@@%%%%%%%#####   Specialties....... RLS · Token rotation · Distributed systems
 ##%%%%%%%@@@@@@@@@@%@@%%#*%#**++++=+=+= .%%%@@%%%%%%%%#####   Status............ Open to backend/security
-#%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Learning.......... Rust concurrency, agent evals
-%%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... agent-gateway · mettle · aegis
+#%%%%%%%%@@@@@@@@@@%%+::=*#****+++==+*- -@%@@@%%%%%%%%#####   Learning.......... Systems security · Trusted AI infrastructure
+%%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... go-authz · go-durable-jobs · aegis
 %%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Contact........... ezequielranieri.contact@gmail.com
 %%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   Portfolio......... ezequielranieri.vercel.app
 #%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. 5 days ago (ezequielranieri/ezequielranieri)
@@ -44,30 +44,53 @@
 
 <br>
 
-
 [![Email](https://img.shields.io/badge/-ezequielranieri.contact%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ezequielranieri.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ezequielranieri.vercel.app/en/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ezequielranieri.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielranieri)
 
 </div>
 
 ---
 
-Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping friends with concrete problems and, over time, focused on what interests me most: security, backend systems, and clean architecture. I learned on my own — researching, building, and documenting every decision. Today I combine backend with artificial intelligence, always prioritizing secure, scalable, and maintainable systems. I'm motivated by understanding how systems work inside and building tools that genuinely solve problems.
+**Backend & Security Engineering** · Go · PostgreSQL · RLS · IAM · Distributed Systems
+
+Self-taught backend engineer based in Salto Grande, Santa Fe, Argentina. I focus on Go, PostgreSQL, and security-oriented backend systems: identity and access management, tenant isolation with Row Level Security, durable job processing, and distributed systems. My selected projects include documented design decisions, integration tests against real infrastructure, and honest retrospectives. Long-term direction: systems security and trusted AI infrastructure.
 
 <br>
 
 ## Selected Work
 
-| Project | Description | Stack |
-|---|---|---|
-| [**agent-gateway**](https://github.com/ezequielranieri/agent-gateway) | Multi-tenant LLM gateway — policy engine, PII masking, router separation, tenant isolation, signed receipts, drift detection | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![OPA](https://img.shields.io/badge/OPA-21262d?style=flat-square&logo=openpolicyagent&logoColor=white) ![WASM](https://img.shields.io/badge/WASM-21262d?style=flat-square&logo=webassembly&logoColor=white) |
-| [**aegis**](https://github.com/ezequielranieri/aegis) | Secure WebAssembly execution runtime — capability-based host functions, signed hash-chained receipts (Ed25519 + BLAKE3), two-phase prepare/commit execution, fuel metering, mTLS gRPC server | ![Rust](https://img.shields.io/badge/Rust-21262d?style=flat-square&logo=rust&logoColor=white) ![WASM](https://img.shields.io/badge/WASM-21262d?style=flat-square&logo=webassembly&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-21262d?style=flat-square&logo=grpc&logoColor=white) |
-| [**mettle**](https://github.com/ezequielranieri/mettle) | LLM agent evaluation & safety framework — declarative YAML specs, semantic judge, regression store, 13 scenarios, 23 ADRs | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-21262d?style=flat-square&logo=yaml&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-21262d?style=flat-square&logo=sqlite&logoColor=white) |
-| [**hex-auth-service**](https://github.com/ezequielranieri/hex-auth-service) | High-performance hexagonal IAM — O(1) token validation, real-time security breach detection, refresh token rotation (FastAPI, PostgreSQL, Redis) | ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white) |
-| [**go-durable-jobs**](https://github.com/ezequielranieri/go-durable-jobs) | Durable job processor in Go — Postgres queue, idempotency, retries with backoff, graceful shutdown | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) |
-| [**agro-iam**](https://github.com/ezequielranieri/agro-iam) | Multi-tenant farm management platform in Go — FORCED Row Level Security, refresh token rotation with family-based reuse detection, tamper-evident audit hash chain | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-21262d?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| [**agro-agent**](https://github.com/ezequielranieri/agro-agent) | Multi-tenant AI backend for agricultural cooperatives — tool-calling agent with deterministic domain routing, human-in-the-loop approvals, RAG over documents (pgvector) | ![Go](https://img.shields.io/badge/Go-21262d?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-21262d?style=flat-square&logo=googlegemini&logoColor=white) |
+### Go Authz
+
+- **Problem:** Other internal services need a shared answer to authentication, session safety, and "can this user do X?" without reimplementing roles and permissions per service. A stolen refresh token or a forgotten `WHERE tenant_id = ?` becomes a breach, not a bug.
+- **Engineering:** Go service for authentication, refresh-token rotation with family-based reuse detection, role-based authorization, and tenant isolation with database-level enforcement (PostgreSQL RLS + trigger), complemented by application middleware. Argon2id passwords, JWT (ES256) with multi-key rotation, Redis rate limiting (Lua, atomic). A single `/authorize` endpoint other services call with the caller's own access token.
+- **Verifiable evidence:** CI workflow (golangci-lint, vet, build, test, gitleaks secret scanning); unit tests across domain, use cases, adapters, HTTP handlers, and middleware; integration tests against real PostgreSQL and Redis via testcontainers; `DECISIONS.md` documenting decisions and limitations. The repository also documents query-count and concurrency assertions; I have not executed them locally.
+- **Value to an organization:** a reusable IAM component with tenant isolation enforced at the database, documented security decisions, and a test suite that runs against real infrastructure instead of mocks.
+- **Limitations:** metrics and tracing are not implemented (structured logging and health/ready checks only); service accounts (M2M) are not implemented; Redis is a central dependency for rate limiting and session security.
+
+### Go Durable Jobs
+
+- **Problem:** Asynchronous work that disappears on crash, duplicates on retry, or is lost to a transient failure. Without a durable queue and idempotency, background jobs are unreliable.
+- **Engineering:** Go durable job processor using PostgreSQL as the source of truth. Idempotency through a unique constraint; dequeue via `SELECT ... FOR UPDATE SKIP LOCKED`; exponential backoff with jitter and a configurable attempt limit; explicit dead-letter queue with a requeue endpoint; graceful shutdown with a drain window; Prometheus metrics.
+- **Verifiable evidence:** unit tests (domain, application, handler, worker, telemetry) and integration tests against PostgreSQL (isolated database, build tag `integration`); benchmarks including `SKIP LOCKED` scaling under concurrency; `DECISIONS.md` and an honest retrospective documenting what was deliberately left out.
+- **Value to an organization:** a reference implementation of a durable job processor with documented trade-offs and environment-specific performance measurements.
+- **Limitations:** no authentication or authorization on the HTTP API; the worker pool uses a single hardcoded handler (no registry); no circuit breaker; the repository has no CI workflow; benchmarks are environment-specific.
+
+### Aegis
+
+- **Problem:** Running untrusted WebAssembly under resource limits, with capability-based host functions and signed execution receipts.
+- **Engineering:** Rust WebAssembly sandbox runtime. Capability-based host functions (not WASI) with four capability names; Wasmtime sandbox with memory, table, instance, and memory limits; epoch interruption and fuel metering for CPU accounting; Ed25519 + BLAKE3 signed, hash-chained execution receipts; two-phase prepare/commit/abort; gRPC server with optional mutual TLS.
+- **Verifiable evidence:** CI workflow running `cargo fmt --check`, `cargo clippy --all-targets -- -D warnings`, and `cargo test`; integration tests (sandbox, fuel, network HTTP, two-phase, gRPC boundary, config); `DECISIONS.md` with 16 architecture decision records; openspec specifications. I have not executed the Rust toolchain locally.
+- **Value to an organization:** a WebAssembly runtime with capability-based host functions and signed execution receipts, usable as a sandbox component for untrusted code.
+- **Limitations:** mutual TLS is optional; the unencrypted mode prints a warning and is not suitable for production use; requires the Rust toolchain to build.
+
+<br>
+
+## Other relevant projects
+
+- **[Agent Gateway](https://github.com/ezequielranieri/agent-gateway)** (Go) — multi-tenant LLM gateway with tenant isolation (RLS FORCE), append-only audit hash chain, human-in-the-loop approvals, guardrails, model routing with fallback, WASM tool sandbox, and agent delegation. MVP (Phases 0–9); some adapters are stubbed (Anthropic/Ollama) and the AD-013 JWT transport is not wired. CI + CD staging + release.
+- **[Agro IAM](https://github.com/ezequielranieri/agro-iam)** (Go) — multi-tenant IAM with RLS, Argon2id, JWT, refresh-token rotation, and Redis rate limiting. Live demo available. Learning/portfolio project.
+- **[Mettle](https://github.com/ezequielranieri/mettle)** (Go) — agent evaluation and safety framework with declarative YAML specs, authorization oracles, visibility checks, LLM-as-judge, regression store, and CI gate. v0.1.0, expanding the scenario corpus.
 
 <div align="center">
 
@@ -81,9 +104,13 @@ Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping f
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,rust,fastapi,docker,postgres,redis,rabbitmq,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,git&theme=dark" />
 
 </div>
+
+<br>
+
+Also used: Rust (Aegis), Python (earlier IAM experiment).
 
 <br>
 
@@ -96,18 +123,16 @@ Self-taught backend engineer from Salto Grande, Santa Fe. I started by helping f
 
 <br>
 
-
 ## Engineering Principles
 
 | | |
 |---|---|
-| **01** | Architecture is a deliberate decision — hexagonal / clean boundaries between domain logic and infrastructure |
-| **02** | Security is a design constraint from day one, not a layer added at the end |
-| **03** | Systems are built to fail safely — idempotency, retries, dead-letter queues, observability |
-| **04** | Documentation and honest retrospectives are part of the deliverable, not an afterthought |
+| **01** | Tenant isolation is enforced at the database (PostgreSQL RLS + trigger), complemented by application middleware — demonstrated in go-authz. |
+| **02** | Security-sensitive flows are documented with decision records and honest retrospectives (DECISIONS.md across repositories). |
+| **03** | Correctness claims are verified with tests against real infrastructure (testcontainers), not asserted from mocks. |
+| **04** | Idempotency, retries, and graceful shutdown are designed into async paths from the start (go-durable-jobs). |
 
 <br>
-
 
 <div align="center">
 

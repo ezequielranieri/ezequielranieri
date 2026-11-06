@@ -17,7 +17,7 @@
 %%%%%%%%%@@@@@@@@@@@%@#-:---+*++++=--+**=%@%%%%%%%%%%%#####   Building.......... go-authz · go-durable-jobs · aegis
 %%%%%%%@@@@@@@@%%%%%%%*-::--==-::::+++*%*#@@@@@%%%%%%%#####   Contact........... ezequielranieri.contact@gmail.com
 %%%%%%%@@@@@%%%%@@@@@%%#=:--:.   .:=+***#* :+#%%@@@%%%%#####   Portfolio......... ezequielranieri.vercel.app
-#%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. today (ezequielranieri/ezequielranieri)
+#%%%%%%%%%%@@@@@%#*=---   ::.  .:=*####*-   :-=+*##%%%%###   Last public push.. yesterday (ezequielranieri/new-portfolio)
 #%%%%%%%%@@%*+-:.    . .          ..:::..          ..:-=*#%#    
 ##%#%%%%%*-:        . .                                .=#    
 #####%%#:             .                                  .    

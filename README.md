@@ -54,7 +54,7 @@
 
 **Backend & Security Engineering** · Go · PostgreSQL · RLS · IAM · Distributed Systems
 
-Self-taught backend engineer based in Salto Grande, Santa Fe, Argentina. I focus on Go, PostgreSQL, and security-oriented backend systems: identity and access management, tenant isolation with Row Level Security, durable job processing, and distributed systems. My selected projects include documented design decisions, integration tests against real infrastructure, and honest retrospectives. Long-term direction: systems security and trusted AI infrastructure.
+Self-taught backend and security engineer based in Argentina, focused on Go, PostgreSQL, identity and access management, and distributed systems. I develop independent technical projects involving authentication and authorization, tenant-isolation mechanisms, durable job processing, and WebAssembly execution. My selected work includes documented design decisions, integration-test suites, and explicit technical limitations. Long-term direction: systems security and trusted AI infrastructure.
 
 <br>
 
@@ -87,6 +87,8 @@ Self-taught backend engineer based in Salto Grande, Santa Fe, Argentina. I focus
 <br>
 
 ## Other relevant projects
+
+Additional projects that provide context on my broader technical interests and work, beyond the primary selected projects.
 
 - **[Agent Gateway](https://github.com/ezequielranieri/agent-gateway)** (Go) — multi-tenant LLM gateway with tenant isolation (RLS FORCE), append-only audit hash chain, human-in-the-loop approvals, guardrails, model routing with fallback, WASM tool sandbox, and agent delegation. MVP (Phases 0–9); some adapters are stubbed (Anthropic/Ollama) and the AD-013 JWT transport is not wired. CI + CD staging + release.
 - **[Agro IAM](https://github.com/ezequielranieri/agro-iam)** (Go) — multi-tenant IAM with RLS, Argon2id, JWT, refresh-token rotation, and Redis rate limiting. Live demo available. Learning/portfolio project.
